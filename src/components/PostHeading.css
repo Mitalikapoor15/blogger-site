@@ -1,0 +1,11 @@
+@font-face {
+    font-family: champagne;
+    src: url("./fonts/Champagne & Limousines.ttf");
+  }
+
+.heading {
+    font-family: "champagne" ;
+    font-size: 36px;
+    opacity: 85%;
+    color: #110e0f;;
+}

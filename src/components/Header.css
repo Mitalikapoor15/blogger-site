@@ -1,0 +1,42 @@
+
+@font-face {
+  font-family: typewriter;
+  src: url("./fonts/LUCKY TYPEWRITER.ttf");
+}
+body {
+  background-color: #ffffff;
+ 
+}
+
+.header-cont {
+  background-image: url("./images/floral2.jpg");
+  background-size: cover;
+  height: 350px;
+ 
+}
+
+.text {
+  opacity: 85%;
+  position: relative;
+  top: 25%;
+  font-family: "typewriter";
+}
+
+.header {
+
+  text-align: center;
+  font-size: 70px;
+  color: #110e0f;
+  padding-top: 30px;
+}
+
+.author-name {
+  text-align: center;
+  font-size: 45px;
+  color: #110e0f;
+  margin: 15px 0;
+}
+
+h1 {
+  margin: 0;
+}
